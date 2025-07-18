@@ -56,7 +56,7 @@ Whether you're recording a call, system sound, or live mic — Audio Hijack give
 ## 🖼️ Preview
 
 ![Audio Hijack Screenshot 1](https://i0.wp.com/sixcolors.com/wp-content/uploads/2015/01/hijack-soundboard-6c.jpg?ssl=1)  
-![Audio Hijack Screenshot 2](https://static.macupdate.com/screenshots/341377/m/audio-hijack-screenshot.png?v=1658418076)
+![Audio Hijack Screenshot 2](https://9to5mac.com/wp-content/uploads/sites/6/2024/01/audio-hijack-lead.jpg?quality=82&strip=all)
 
 ---
 
